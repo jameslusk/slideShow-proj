@@ -1,1 +1,1 @@
-init
+https://jameslusk.github.io/slideShow-proj/
